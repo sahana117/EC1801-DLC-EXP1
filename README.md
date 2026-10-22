@@ -125,7 +125,8 @@ and successfully implemented using Verilog HDL.
 
 
 
-Result, thus Boolean function was  minimised ,implemented using verilog HDL sucessfully stimulated using Synopsys VCS and verifed using Synopsys DVE.
+## Result
+ Thus Boolean function was  minimised ,implemented using verilog HDL sucessfully stimulated using Synopsys VCS and verifed using Synopsys DVE.
 
 
 
